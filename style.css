@@ -73,7 +73,7 @@ a:hover {
 	color: red
 }
 
-.car pic:hover {
+.car-pic:hover {
 	color: grey
 }
 
@@ -84,6 +84,14 @@ h2:hover {
 }
 .hover04 figure:hover img {
 	width: 300px;
+}
+
+.car_pic_2 {
+	opacity: 0.2;
+}
+
+.car_pic_2:hover {
+	opacity: 1;
 }
 
 .car_pic_1:hover {
