@@ -76,3 +76,7 @@ a:hover {
 .c:hover {
 	color: grey
 }
+
+h2:hover {
+  background-color: gold;
+}
